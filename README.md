@@ -1,6 +1,8 @@
 Continuous Integration Demo
 ===========================
 
+[![Run unit tests](https://github.com/Ichi1234/ci-demo/actions/workflows/python-app.yml/badge.svg)](https://github.com/Ichi1234/ci-demo/actions/workflows/python-app.yml)
+
 This project demonstrates use of Github Actions to build and test a Python project.  
 
 ## Automatic Testing
