@@ -3,6 +3,7 @@ Continuous Integration Demo
 
 [![Run unit tests](https://github.com/Ichi1234/ci-demo/actions/workflows/python-app.yml/badge.svg)](https://github.com/Ichi1234/ci-demo/actions/workflows/python-app.yml)
 [![Flake8 test](https://github.com/Ichi1234/ci-demo/actions/workflows/flake8.yml/badge.svg)](https://github.com/Ichi1234/ci-demo/actions/workflows/flake8.yml)
+[![codecov](https://codecov.io/github/Ichi1234/ci-demo/graph/badge.svg?token=04W5CKCUB1)](https://codecov.io/github/Ichi1234/ci-demo)
 
 This project demonstrates use of Github Actions to build and test a Python project.  
 
